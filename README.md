@@ -2,7 +2,7 @@
 
 ## Intro
 
-This repo is an implementation of the [Gitcoin grant](https://hackmd.io/1zLo4ydsTFSGUCSDRaei0A) codebase using scaffold-eth. The goal of the project is to create mutual aid financing for projects made by the [BuidlGuidl](https://buidlguidl.com/). 
+This repo is an implementation of the [Gitcoin grant](https://github.com/dcgtc/dgrants) codebase using scaffold-eth. The goal of the project is to create mutual aid financing for projects made by the [BuidlGuidl](https://buidlguidl.com/). 
 
 
 ## TODO 
